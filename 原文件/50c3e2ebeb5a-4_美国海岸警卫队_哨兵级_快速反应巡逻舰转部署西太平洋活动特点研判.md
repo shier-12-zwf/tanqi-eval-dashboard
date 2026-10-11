@@ -1,0 +1,295 @@
+# 美国海岸警卫队“哨兵级”快速反应巡逻舰转部署西太平洋活动特点研判
+
+日期：2026 年 9 月 8 日
+
+## 内容摘要
+
+2026 年 3 月起，原驻巴林、隶属“西南亚巡逻部队”（Patrol Forces Southwest Asia，PATFORSWA）的 6 艘美国海岸警卫队（U.S. Coast Guard，USCG）“哨兵级”快速反应巡逻舰（Sentinel-class Fast Response Cutter，FRC，WPC 154 英尺级）先后经新加坡海峡东调；7 月 15 日，USCG 正式宣布将该中队整编为“远征巡逻舰中队”（Expeditionary Cutter Squadron，ECS），部署至西太平洋，以新加坡为指挥与后勤枢纽、菲律宾苏比克湾为前沿驻泊点，支援美国印太司令部（INDOPACOM）任务。6 艘舰艇分别为“查尔斯·莫尔索普”号（USCGC Charles Moulthrope，WPC-1141）、“罗伯特·戈德曼”号（USCGC Robert Goldman，WPC-1142）、“格伦·哈里斯”号（USCGC Glen Harris，WPC-1144）、“埃姆伦·坦内尔”号（USCGC Emlen Tunnell，WPC-1145）、“约翰·舒尔曼”号（USCGC John Scheuerman，WPC-1146）和“克拉伦斯·萨特芬 Jr.”号（USCGC Clarence Sutphin Jr.，WPC-1147）。
+
+此次转部署既与 2026 年初中东“史诗之怒”（Operation Epic Fury）行动导致伊朗对巴林美国海军支援设施实施导弹、无人机打击直接相关，也服务于美海警“以执法型海上力量对冲中国灰色地带行动”的印太战略。部署以来，该型舰已参与美菲“海上合作活动”（Maritime Cooperative Activity，MCA）、美泰“海上战备训练与合作”（CARAT Thailand 2026）等联合演训，并与菲律宾海岸警卫队在南海开展小型艇、登船检查、通信演练等科目。其活动呈现“前沿存在、执法包装、轮换驻泊、伙伴赋能、低烈度威慑”五大特点，对南海、台海及西太平洋灰色地带竞争态势产生叠加影响。
+
+本报告从部署背景、亚太部署格局、活动规律与范围、战略意图、区域影响五个维度展开分析，信源分三类：台湾地区繁体中文网站、全球英文主流媒体、中国大陆非自媒体网站。
+
+## 一、转部署核心事实与背景
+
+## 1. 部署官宣：从 PATFORSWA 到远征巡逻舰中队的体制转换
+
+2026 年 7 月 15 日，USCG 发布新闻稿，宣布将其“远征巡逻舰中队”（ECS），即原“西南亚巡逻部队”（PATFORSWA），转往西太平洋执行海上安全行动与“合作海上活动”（U.S. Coast Guard，2026-07-15；Chuck Hill's CG Blog，2026-07-15）。该中队由 6 艘“哨兵级”FRC 组成，全部原驻巴林，曾支援美国中央司令部（CENTCOM）与第 5 舰队超过 20 年，主要负责波斯湾海上安全、海上拦截与海上态势感知任务。
+
+USCG 司令凯文·伦迪（Kevin Lunday）上将表示：“海岸警卫队力量始终适应国家紧急需求；远征巡逻舰中队增强了海警队支援作战司令部和国家安全目标的能力。我们的远征巡逻舰部队为作战司令部提供独特能力的海上资产，利用海岸警卫队兼具的军事与执法权限，推进美国在西太平洋和西半球的国家安全目标。”（U.S. Coast Guard，2026-07-15；Seapower Magazine，2026-07-16）
+
+这意味着该中队不再单纯是海岸警卫队海外部署单位，而被重新定位为可在全球范围内响应作战司令部需求的“远征型”编队，首次部署即锁定西太平洋。
+
+## 2. 舰艇与驻泊安排：新加坡+苏比克湾双枢纽
+
+据《詹氏防务》（Janes）2026 年 7 月 17 日报道，USCG 发言人证实，远征巡逻舰中队目前在新加坡和菲律宾设有前沿部署地点，“以保护美国本土及包括关岛和太平洋岛屿在内的海上通道”；该中队获准在新加坡和菲律宾苏比克湾活动至 2026 年 9 月，新加坡负责指挥与后勤，舰艇轮换通过苏比克湾部署（Janes，2026-07-17）。
+
+《星条旗报》（Stars and Stripes）7 月 20 日进一步披露，6 艘 FRC 分别为：Charles Moulthrope、Robert Goldman、Glen Harris、Emlen Tunnell、John Scheuerman、Clarence Sutphin Jr.，均原驻巴林；这些舰艇已在菲律宾和新加坡停靠进行港口访问与维护，并开展“海上安全行动和合作海上活动”（Stars and Stripes，2026-07-20）。
+
+## 3. 触发因素：中东“史诗之怒”行动与巴林基地遭袭
+
+此次转部署的直接触发背景是 2026 年初中东局势。2026 年 2 月 28 日，伊朗伊斯兰革命卫队航空航天部队对巴林美国海军支援设施（NSA Bahrain）发动无人机与弹道导弹袭击，该基地是美国第 5 舰队与中央司令部海军部队司令部所在地。这是伊朗首次直接打击美军在波斯湾的主要海军设施，也是自 2000 年“科尔”号驱逐舰遭袭以来对美海军设施最重大攻击（Bahrain Intelligence，2026；Military Times，2026-08-28）。
+
+袭击后，中央司令部启动部队分散计划， dependents（随军家属）撤离，基地运行能力降至 35%-40%。多艘舰艇被转移，包括若干海岸警卫队舰艇（Military Times，2026-08-28）。2026 年 3 月 29 日，开源情报观测到全部 6 艘 PATFORSWA 所属 FRC 经新加坡海峡东行（Chuck Hill's CG Blog，2026-03-31；X @StraitsSights）。此后，这些舰艇未返回波斯湾，而是逐步投入西太平洋行动。
+
+USCG 新闻稿未直接提及伊朗袭击，仅称“响应国家安全需求”，但《星条旗报》等报道将二者关联，称巴林“在‘史诗之怒’行动期间多次成为伊朗袭击目标”（Stars and Stripes，2026-07-20）。分析人士认为，FRC（排水量约 350 吨、最高航速约 28 节）防御无人机与巡航导弹能力有限，难以在饱和攻击环境下继续执行霍尔木兹海峡任务，转往西太平洋既可规避风险，也能继续发挥前沿存在价值（Last Stand on Zombie Island，2026-07-16；Chuck Hill's CG Blog 评论）。
+
+## 4. 转部署时间线梳理
+
+- 2026 年 2 月 28 日：伊朗袭击 NSA Bahrain，基地受损，人员撤离。
+- 2026 年 3 月中下旬：6 艘 FRC 经新加坡海峡东调，离开中东战区。
+- 2026 年 6 月 14-19 日：Charles Moulthrope（WPC-1141）与 Emlen Tunnell（WPC-1145）参与美菲第 4 次“海上合作活动”（MCA），活动范围在菲律宾专属经济区/南海，科目包括搜救、登船检查（VBSS）、海上拦截、海上执法、通信演练、分队战术与联合火力预演（DVIDS，2026-06-18；AFP/Philippine Daily Inquirer，2026-06-20）。
+- 2026 年 6 月 17 日：Charles Moulthrope 与菲律宾海员在南海进行小型艇训练（Stars and Stripes，2026-07-27）。
+- 2026 年 6 月 27-30 日：两艘 FRC 再次参与美菲 MCA（Chuck Hill's CG Blog，2026-07-12）。
+- 2026 年 7 月 6-15 日：Charles Moulthrope 与 Emlen Tunnell 参加第 32 届“海上战备训练与合作”（CARAT Thailand 2026），与泰国皇家海军、加拿大皇家海军在春武里府萨塔希普演练，USCG 远征巡逻舰中队指挥官迈克·罗斯（Mike Ross）上尉出席闭幕式（DVIDS，2026-07-06；DVIDS，2026-07-15）。
+- 2026 年 7 月 15 日：USCG 正式宣布 ECS 部署西太平洋。
+- 2026 年 7-9 月：舰艇继续以新加坡、苏比克湾为基地轮换活动，授权期限至 9 月 30 日（Stars and Stripes，2026-07-20；Janes，2026-07-17）。
+
+## 二、亚太“哨兵级”FRC 部署格局：关岛、夏威夷与新增远征中队
+
+## 1. 关岛 FRC 力量：第 14 区前沿存在核心
+
+除新调来的 6 艘 ECS 舰艇外，USCG 在太平洋长期部署“哨兵级”FRC 于关岛阿普拉港（Santa Rita），隶属海岸警卫队密克罗尼西亚部队/关岛分区（U.S. Coast Guard Forces Micronesia/Sector Guam）。截至 2026 年，关岛 FRC 包括：
+
+- “默特尔·哈泽德”号（USCGC Myrtle Hazard，WPC-1139）
+- “奥利弗·亨利”号（USCGC Oliver Henry，WPC-1140）
+- “弗雷德里克·哈奇”号（USCGC Frederick Hatch，WPC-1143）
+- “文森特·丹兹”号（USCGC Vincent Danz，WPC-1162）——2026 年交付，为关岛第 4 艘 FRC（U.S. Coast Guard，2026；Professional Mariner，2026）。
+
+这些舰艇主要执行“蓝色太平洋行动”（Operation Blue Pacific）、“雷马陶行动”（Operation Rematau）、“纳塞行动”（Operation Nasse）、“科阿·莫阿纳行动”（Operation Koa Moana）等任务，活动范围覆盖密克罗尼西亚、马绍尔群岛、帕劳、瑙鲁、巴布亚新几内亚等太平洋岛国专属经济区，重点打击非法、未报告、无管制捕捞（IUU fishing），开展“随船观察员”（shiprider）联合执法、人道主义援助、海上搜救与社区交流（U.S. Coast Guard Forces Micronesia/Sector Guam，2023；U.S. Coast Guard，2026-03-29）。
+
+例如，2025 年 12 月 14 日，Myrtle Hazard 完成“蓝色太平洋行动”巡逻，累计航行 5380 海里、作业超 500 小时，在密克罗尼西亚联邦和帕劳 EEZ 持续存在 15 天（U.S. Coast Guard，2025-12-14）。Frederick Hatch 曾在一次 41 天、7100 海里的巡逻中，搭载 FSM、马绍尔群岛、瑙鲁执法人员登船，执行 16 次登检、5 次警告（USCG GovDelivery，2023-12-23）。
+
+## 2. 夏威夷“印太支援巡逻舰”：大洋洲战略支点
+
+USCG 还于 2023 年将一艘 270 英尺中型耐久巡逻舰“哈里特·莱恩”号（CGC Harriet Lane，WMEC-903）从弗吉尼亚调驻夏威夷檀香山，作为首艘“印太支援巡逻舰”（Indo-Pacific Support Cutter），专责大洋洲行动。该舰 2024 年首次太平洋巡逻 79 天，访问美属萨摩亚、萨摩亚、斐济、瓦努阿图、澳大利亚、巴布亚新几内亚、马绍尔群岛等地，重点帮助太平洋岛国应对 IUU 捕捞（The Garden Island，2024-07-03；Congressional record via USCG testimony）。
+
+国会在 2025 财年拨款草案中拟追加 6000 万美元，用于在夏威夷第 14 区再部署一艘中型耐久巡逻舰，并提升桑德岛基地设施，显示 USCG 在太平洋岛国的存在将持续扩大（USCG Western Pacific Region Resourcing Strategy，2024）。
+
+## 3. 新增远征中队的战略位置：南海与吕宋海峡前沿
+
+相比关岛和夏威夷侧重太平洋岛国 IUU 捕捞与执法合作，新调驻新加坡—苏比克湾的 6 艘 ECS FRC 更靠近南海、吕宋海峡和台湾岛以南水道。新加坡是马六甲海峡—南海交汇的战略节点，苏比克湾则面向南海、距黄岩岛、仁爱礁等争议热点较近，且是美军前哨基地网络的潜在支点。该部署首次将 FRC 这一小型、灵活、可执法包装的舰艇常态化前置到第一岛链热点海域。
+
+## 三、西太平洋“哨兵级”FRC 活动特点分析
+
+## 1. 活动范围：聚焦南海，辐射吕宋海峡与东南亚，尚未深入东海、台海
+
+从目前公开信息看，ECS FRC 西太部署后的活动轨迹高度集中于：
+
+- 南海中南部至西部菲律宾海：6 月 14-19 日 MCA 在菲律宾 EEZ/“西菲律宾海”展开，最终日菲律宾海军护卫舰“迭戈·西兰戈”号（BRP Diego Silang）前往巴霍·德·马辛洛克（黄岩岛）附近实施海上主权巡逻，并监控中方多艘舰艇（Manila Bulletin，2026-06-20）。
+- 泰国湾及东南亚近海：7 月 6-15 日 CARAT Thailand 在春武里府萨塔希普周边海域进行。
+- 新加坡—马六甲海峡通道：3 月东调时经新加坡海峡，后续以新加坡为后勤中枢。
+- 关岛与太平洋岛国方向：ECS 官方表述中强调“保护包括关岛和太平洋岛屿在内的海上通道”，但目前未见该 6 艘舰艇北上至关岛或第二岛链以东的具体行动，主要行动仍停留在南海与东南亚。
+
+截至目前，未有公开报道显示 FRC 进入东海水域或穿越台湾海峡。USCG 涉东海、台海存在主要通过关岛 FRC 的太平洋岛国任务、以及“印太支援巡逻舰”的大洋洲巡航间接体现，尚未直接抵近钓鱼岛或台海中线。但台湾媒体普遍认为，苏比克湾部署可在台海有事时为美军提供前进基地，间接影响台海态势（上報，2026-07-15；中央廣播電臺，2026-07-16；三立新聞網，2026-07-16）。
+
+## 2. 轮换与驻泊规律：新加坡主控、苏比克湾轮换、双舰编组为主
+
+从任务编组看，ECS FRC 目前多以 2 艘编组出海执行联合演训与 MCA：
+
+- 6 月 14-19 日 MCA：Charles Moulthrope + Emlen Tunnell；
+- 6 月 27-30 日 MCA：Charles Moulthrope + Emlen Tunnell；
+- 7 月 6-15 日 CARAT Thailand：Charles Moulthrope + Emlen Tunnell。
+
+这显示该中队采取“双舰轮换、梯次出动”模式：部分舰艇在新加坡整备或担任警戒，部分前出苏比克湾参与美菲、美泰联合行动。其余 4 艘（Robert Goldman、Glen Harris、John Scheuerman、Clarence Sutphin Jr.）公开活动较少，可能负责区域性巡逻、港口访问或在新加坡基地维护（Chuck Hill's CG Blog，2026-08-28 评论称“已看到两艘舰艇轮换至菲律宾”）。
+
+轮换周期与授权期限直接挂钩：USCG 发言人明确其在新加坡和苏比克湾活动“获批至 2026 年 9 月”（Janes，2026-07-17；Stars and Stripes，2026-07-20）。9 月 30 日之后是否延长、扩大至全年轮换或增派母船/补给舰，目前尚无官方消息，需持续跟踪。
+
+## 3. 活动时间特点：与菲律宾挑衅节奏、多边演习周期高度耦合
+
+ECS FRC 的活动时间呈现明显“事件驱动”和“演习驱动”特征：
+
+- 与南海紧张节点同步：6 月中旬 MCA 正值中方在黄岩岛附近设置浮动屏障、浮标和临时研究设施引发菲方高度关注之际；活动最终日，菲律宾军舰在黄岩岛附近实施“主权巡逻”，并报告监视到解放军海军护卫舰、护卫舰、辅助油船和海上巡逻机（Manila Bulletin，2026-06-20）。
+- 与美菲 MCA 序列同步：2026 年美菲已举行至少 7 次 MCA（DVIDS，2026-06-18 称 6 月 14-19 日为“2026 年第 7 次 MCA”），FRC 参加的是其中的第 4 次公开报道的 MCA。这表明 FRC 已被纳入美菲 MCA 机制化安排。
+- 与 CARAT 等年度演习同步：7 月 CARAT Thailand 是第 32 届年度演习，USCG 首次派 FRC 参演，体现其将 ECS FRC 嵌入既有地区演习体系。
+
+## 4. 任务形态：以“海上安全/执法合作”包装军事存在
+
+FRC 在西太的任务表述大量使用“maritime security operations”“cooperative maritime activities”“maritime law enforcement training”“VBSS”“search and rescue”等低烈度、执法化语言（U.S. Coast Guard，2026-07-15；DVIDS，2026-06-18）。但其本质上是在 INDOPACOM 战区支援美军联合部队行动，并可执行海上拦截、登船检查、海上态势感知等兼具军事与执法属性的任务。
+
+分析人士指出，这种安排使美国得以用海岸警卫队而非海军主力舰艇介入南海摩擦，降低冲突升级风险，同时对中国海警、海上民兵等非正规力量形成对等威慑——即“以灰制灰”。战略与国际研究中心（CSIS）亚洲海事透明倡议（AMTI）主任格雷戈里·波林（Gregory Poling）认为，FRC 主要任务仍将是训练菲律宾海岸警卫队，而非直接执法；但美国可能在有限情况下为菲律宾提供直接支持（Stars and Stripes，2026-07-27）。斯坦福大学“海光”（SeaLight）项目主任雷蒙德·鲍威尔（Raymond Powell）则称，该中队部署在菲律宾船只旁可形成“低烈度威慑”，阻止中国采取直接对抗（Stars and Stripes，2026-07-27）。
+
+## 5. 作战样式：小型艇、登检、通信、分队战术、联合海上执法
+
+公开影像与报道显示，FRC 在南海与菲方演练的核心科目包括：
+
+- 分队战术/值班军官机动（DIVTACS/OOW）：舰艇编队机动与队形保持；
+- 登船、搜索、扣押（VBSS）：针对可疑船只的登检程序；
+- 海上拦截行动（MIO）与海上执法：模拟对非法捕捞、走私船只的执法；
+- 搜救（SAR）与通信演练（COMMEX）：跨军种协同与信息共享；
+- 小型艇操作训练：6 月 17 日 Charles Moulthrope 与菲律宾海员进行小型艇训练，突出近岸与岛礁水域机动能力（Stars and Stripes，2026-07-27）。
+
+这些科目均指向岛礁邻近水域、狭窄水道、海上执法冲突场景，与中国海警在南沙、黄岩岛、仁爱礁等地的活动样式高度对应。
+
+## 6. 平台特点：小型、高速、低成本、可前沿分散部署
+
+“哨兵级”FRC 长 154 英尺（约 47 米），排水量约 350 吨，最高航速约 28 节，续航力约 2500 海里，配 1 门 25 毫米舰炮、多挺机枪，可搭载刚性充气艇与小型无人机。其优势在于：
+
+- 吨位小、吃水浅，可进入大型驱逐舰无法靠近的岛礁、近岸和狭窄水道；
+- 航速快，适合追逐、拦截、护渔与快速反应；
+- 成本低于海军战舰，可持续前沿存在而不消耗高价值主战舰艇资源；
+- 兼具执法与军事能力，可执行海上安全、缉毒、非法移民拦截、搜救等“白船”任务，也可在战时支援海军海上拦截。
+
+劣势也十分明显：
+
+- 防空、反导能力弱，在面对无人机、反舰导弹、战斗机时生存能力有限；
+- 续航与自持力有限（约 5 天），需要频繁靠港补给或依赖母舰/补给舰；
+- 火力较弱，不足以对抗装备 76 毫米舰炮、水炮的中国海警大型舰艇。
+
+正因如此，其任务定位更偏向“存在、执法支援、伙伴训练、低烈度威慑”，而非高强度海战。
+
+## 四、战略意图与影响研判
+
+## 1. 意图一：以“执法外观”对冲中国灰色地带，降低直接军事对抗风险
+
+中国近年来在南海、台海大量使用海警、海上民兵等非军事力量推进主权主张，形成“灰色地带”优势。USCG FRC 部署西太，是美国以“灰船对灰船”思路回应这一模式的关键步骤。FRC 作为白船，可进入争议水域执行执法、护渔、搜救、联合巡逻，与中国海警对等博弈，既避免动用海军驱逐舰带来的高风险升级，又能保持常态存在（Hindustan Times，2026-07-17；SOFX，2026-07-16）。
+
+## 2. 意图二：支援菲律宾，巩固美菲同盟与南海“前沿支点”
+
+菲律宾是美军在南海—台海方向最重要的条约盟友。FRC 驻扎苏比克湾，可直接为菲律宾海岸警卫队提供训练、情报共享、联合行动与后勤支援。USCG 司令伦迪强调“支援作战司令部和盟友”的功能，而美国之音报道也指出，此次部署旨在帮助菲律宾“巡逻并保护其专属经济区”（VOA Chinese，2026-07-17）。菲律宾海岸警卫队舰艇多为日本、法国援助或小型巡逻艇，亟需与美制平台在通信、战术、VBSS 等科目上建立互操作性，FRC 恰好可作为“教练舰”与“伴航舰”。
+
+## 3. 意图三：填补海军舰艇调往中东后的印太存在缺口
+
+2026 年初中东冲突爆发后，美国海军为应对伊朗威胁，将大量舰艇、航母、两栖部队及陆战队反舰系统调往波斯湾、红海方向。澳洲战略政策研究所（ASPI）非常驻高级研究员尤安·格雷厄姆（Euan Graham）指出，在美国海军因霍尔木兹海峡和中东局势需求大增之际，海岸警卫队成为维持美国印太存在的一种方式（上報，2026-07-15；VOA Chinese，2026-07-17）。FRC 转部署西太，可在不占用更多海军主战舰艇的情况下，维持美国在南海和东南亚的存在。
+
+## 4. 意图四：服务“力量设计 2028”与印太前沿部署构想
+
+USCG“力量设计 2028”（Force Design 2028）强调建设“更敏捷、更有能力、反应更快”的战斗力量，强化战略计划、实验与新作战概念，包括更多 FRC、离岸巡逻舰、极地安全巡逻舰等投入印太（U.S. Coast Guard，2025）。国会文件亦显示，2023-2025 财年持续为印太 FRC、关岛/夏威夷支持人员、印太支援巡逻舰提供资金，计划向关岛增派 FRC，并于 2026-2027 财年交付两艘 FRC 以支援印太（USCG Western Pacific Region Resourcing Strategy，2024）。ECS FRC 西调正是上述战略的物质落地。
+
+## 5. 对华安全影响
+
+- 海上维权压力上升：USCG FRC 与菲律宾海警联合巡逻、训练，可能增加中菲在黄岩岛、仁爱礁、铁线礁等热点区域的近距离接触与摩擦风险。菲方可能借“联合行动”壮胆，进一步采取抵近侦察、补给、渔业执法等行动。
+- 舆论战与法理战工具增多：美方常以“维护基于规则的海上秩序”“航行自由”“国际法”包装其行动，USCG FRC 以执法身份进入争议水域，更易被美西方舆论塑造为“合法、克制、专业化”的存在，反将中国正常维权行动污名化为“胁迫”。
+- 灰色地带对抗升级：若 FRC 常态化参与美菲 MCA 并与菲律宾船只共同出现在争议水域，中方海警在应对时需在“避免与美方执法舰艇直接冲突”与“维护主权权益”之间谨慎拿捏，增加战术与舆论难度。
+- 台海间接联动：台湾媒体与分析人士普遍认为，苏比克湾 FRC 部署是在“防中国对台动武”，菲律宾作为美军前进基地的重要性上升；若台海有事，FRC 可协助封锁吕宋海峡、巴士海峡，或执行海上拦截、难民管控、后勤护航等任务（上報，2026-07-15；中央廣播電臺，2026-07-16；三立新聞網，2026-07-16）。
+- 多国联动示范效应：FRC 参加 CARAT Thailand、未来可能参加“肩并肩”（Balikatan）等演习，将向越南、马来西亚、印尼、泰国等国展示美国海警合作模式，鼓励这些国家加强对华海上执法互动，形成多边对华压力。
+
+## 五、中方、台方及国际反应
+
+## 1. 中国大陆：反对域外国家军事化、执法化介入南海
+
+中国外交部多次就南海问题表明立场，虽未单独点名 USCG FRC 部署，但对美国、菲律宾、日本、澳大利亚、加拿大等国联合炒作“南海仲裁案裁决”十年及在南海强化军事部署表示强烈反对。2026 年 7 月 12 日外交部声明指出：“美国等域外国家持续在南海强化军力部署，横冲直撞、煽风点火，此种军事化、胁迫性行径才是当前南海局势面临的主要挑战。”（中华人民共和国外交部，2026-07-12）
+
+外交部发言人林剑在 2026 年 7 月 14 日记者会上重申，“南海仲裁案”是“披着法律外衣的政治闹剧”，所谓“裁决”是“非法、无效、没有拘束力的废纸”；中国不接受、不参与、不承认任何基于该“裁决”的主张和行动（中华人民共和国外交部，2026-07-14）。
+
+《美国之音》中文版报道也引述 USCG 发言人表述称，部署“体现了美方对自由开放太平洋的长期承诺”，不评论其他国家的行动或意图（VOA Chinese，2026-07-17）。中文舆论普遍将 FRC 部署解读为美国拉拢菲律宾、以执法名义介入南海争议的新手段。
+
+## 2. 台湾地区：视为“防中对台动武”与南海防线前推
+
+台湾媒体高度关注此次部署。上報、中央廣播電臺、三立新聞網等纷纷报道称，美国海岸防衛隊首次派遣 6 艘快速反应巡防舰进驻新加坡与菲律宾苏比克湾，目的是“牵制中国在台湾周边及南海的灰色地带行动”，并“填补部分美国海军调往中东后的吓阻空缺”（上報，2026-07-15；中央廣播電臺，2026-07-16；三立新聞網，2026-07-16）。
+
+台媒分析重点包括：
+
+- 苏比克湾成为快速反应巡防舰的常态基地，凸显菲律宾作为美军在台海冲突中前进基地的重要性；
+- 海岸防衛隊因其执法性质，比海军更容易被部分国家接受，为美国提供更广泛的工具应对区域挑战；
+- 该部署可“前推南海防线”，防止中国对台动武或进一步控制南海岛礁。
+
+## 3. 菲律宾：将 FRC 纳入美菲 MCA 与南海维权体系
+
+菲律宾军方将 USCG FRC 参与 MCA 视为美菲同盟深化的体现。菲律宾武装部队 6 月 20 日声明称，6 月 14-19 日 MCA 是 2026 年第四次此类双边海上活动，旨在“加强区域与国际合作，支持自由开放的印太”。菲方参演兵力包括护卫舰 BRP Diego Silang、FA-50 战斗机、AW109 直升机、C-208B 飞机、Sokol 直升机，以及海岸警卫队舰艇 BRP Melchora Aquino、BRP Sindangan。美军则派出 FRC、P-8A 巡逻机和第 3 海军陆战队濒海团（3rd Marine Littoral Regiment）人员（AFP，2026-06-20；AFP.mil.ph，2026-06-20）。
+
+## 4. 美国智库与防务媒体：低烈度威慑、任务仍在成形
+
+CSIS 的 Gregory Poling 认为 FRC 主要作用仍是训练菲律宾，不大可能改变南海力量平衡，但可在有限情况下直接支持菲律宾（Stars and Stripes，2026-07-27）。斯坦福大学 SeaLight 的 Raymond Powell 称其为“低烈度威慑”。台湾国防安全研究院学者班杰明·布兰德林（Benjamin Blandin）指出，与中国约 400 艘水面舰艇、150 艘大型海警船相比，6 艘 FRC 数量微不足道，因此更多是“政治信号”和“有限作战贡献”（Stars and Stripes，2026-07-27）。
+
+## 六、趋势预判
+
+## 1. 部署可能从“临时授权”转向“常态化轮换”
+
+目前 USCG 对新加坡—苏比克湾部署的授权仅至 2026 年 9 月 30 日。鉴于 USCG“力量设计 2028”对印太的重视、国会持续拨款、以及关岛 FRC 增派计划，研判该中队可能获得延期，或以“远征巡逻舰中队”模式转为常态化轮换部署，甚至探索使用母舰或补给舰支持 FRC 在南海长期存在（Chuck Hill's CG Blog 评论建议“母舰/补给舰”方案）。
+
+## 2. 活动范围可能从南海向吕宋海峡、台东海域、东海延伸
+
+若台海紧张持续，或美菲 MCA 进一步北移，FRC 可能参与吕宋海峡海上打击、封锁演练，或在台东海域执行海上安全任务。台湾防务界已将吕宋海峡—巴士海峡—台东海道视为潜在封锁区域，FRC 与菲律宾、日本海上保安/海警力量的协同值得关注。
+
+## 3. 任务将从训练向联合执法、联合巡逻升级
+
+随着菲律宾海岸警卫队能力提升和南海摩擦常态化，FRC 可能从“训练伙伴”转向“共同巡逻/执法”，在南海争议水域与中国海警、渔船、海上民兵形成更频繁对峙。届时，中方维权执法的复杂性和风险将显著上升。
+
+## 4. 多国联动与“三海联动”趋势
+
+USCG FRC 在南海的活动可与日本海上保安厅对菲援助、日本自卫队在西南诸岛部署、美菲日澳印多边演习形成联动，未来可能向东海钓鱼岛方向、台海方向扩展，构成“东海—台海—南海”三海联动压力。
+
+## 结论
+
+美国海岸警卫队将原驻巴林的 6 艘“哨兵级”快速反应巡逻舰转部署西太平洋，是 2026 年美军印太力量调整的重要事件。其表面动因是响应“国家安全需求”，深层背景则是中东冲突迫使美军重新分配兵力、以及美国对华灰色地带竞争加剧。该中队以新加坡为指挥后勤枢纽、苏比克湾为前沿驻泊点，采取“双舰编组、轮换出动、执法包装、伙伴赋能”模式，已在南海参与美菲 MCA、美泰 CARAT 等联合演训，并持续进行港口访问与区域巡逻。
+
+其活动特点可概括为：
+
+1. 范围聚焦南海与东南亚近海，尚未进入东海或穿越台海，但对吕宋海峡、台海具有潜在战略辐射；
+2. 驻泊采用新加坡—苏比克湾双枢纽轮换，授权期限至 9 月底，存在常态化可能；
+3. 任务以海上安全、执法合作、伙伴训练为主，实质是“以灰制灰”的低烈度军事存在；
+4. 时间节奏与美菲 MCA、地区演习、南海摩擦节点高度耦合；
+5. 战略意图包括支援菲律宾、填补海军空缺、对华实施执法化威慑、服务“力量设计 2028”。
+
+研判认为，下一步该中队大概率延期并扩大轮换范围，美菲、美泰、美日海警/海保协同将进一步加深，南海、吕宋海峡和台东海域的执法与灰色地带博弈将持续升温。中方应密切关注其部署延期、舰艇轮换、参演科目及与菲律宾海警的联合执法动向，统筹海警、海军、海上民兵及外交法理斗争资源，防止美方以“执法合作”名义固化其南海前沿存在。
+
+## 参考信源
+
+## 台湾地区繁体中文网站
+
+1. 上報（Upmedia）：〈防中國對台動武！美海岸防衛隊首派 6 巡防艦進駐菲律賓 前推南海防線〉，2026-07-15。[https://www.upmedia.mg/tw/international/headlines/263711][link-0001]
+2. 中央廣播電臺（RTI）：〈抗衡中國爭議水域強勢「巡邏」 美海岸防衛隊首派快速反應巡防艦進駐新、菲〉，2026-07-16。[https://www.rti.org.tw/news?pid=220470&amp;uid=3][link-0002]
+3. 三立新聞網（SETN）：〈美軍牽制！防中國對台動武 美海岸防衛隊派 6 巡防艦進駐菲律賓〉，2026-07-16。[https://www.setn.com/news/1873369][link-0003]
+4. 台灣當前新聞（TCN）：〈Taiwan, US expand coast guard cooperation as China steps up maritime patrols〉，2026-08-14。[https://www.tcn.tw/news/6866755][link-0004]
+
+## 全球英文主流媒体
+
+5. U.S. Coast Guard：〈Coast Guard transitions Expeditionary Cutter Squadron to enhance operational capabilities〉，2026-07-15。[https://www.news.uscg.mil/Press-Releases/Article/][link-0005] (via Seapower Magazine, 2026-07-16)
+6. Janes Defence：〈USCG deploys cutter squadron to Singapore and Subic Bay〉，2026-07-17。[https://www.janes.com/defence-intelligence-insights/defence-news/sea/uscg-deploys-cutter-squadron-to-singapore-and-subic-bay][link-0006]
+7. Stars and Stripes：〈Coast Guard reassigns Bahrain-based fast response cutters to Western Pacific〉，2026-07-20。[https://www.stripes.com/branches/coast\_guard/2026-07-20/coast-guard-bahrain-western-pacific-22315222.html][link-0007]
+8. Stars and Stripes：〈New cutter squadron in western Pacific represents ‘low-level deterrence’〉，2026-07-27。[https://www.stripes.com/branches/coast\_guard/2026-07-27/coast-guard-cutters-bahrain-western-pacific-22376995.html][link-0008]
+9. Task &amp; Purpose：〈Coast Guard shifts cutter squadron from Middle East to Pacific〉，2026-07-19。[https://taskandpurpose.com/news/coast-guard-cutters-pacific-middle-east/][link-0009]
+10. Seapower Magazine：〈Coast Guard transitions Expeditionary Cutter Squadron to enhance operational capabilities〉，2026-07-16。[https://seapowermagazine.org/coast-guard-transitions-expeditionary-cutter-squadron-to-enhance-operational-capabilities/][link-0010]
+11. DVIDS：〈Philippine, U.S. forces conduct Maritime Cooperative Activity〉，2026-06-18。[https://www.dvidshub.net/news/568246/philippine-us-forces-conduct-maritime-cooperative-activity][link-0011]
+12. DVIDS：〈U.S. forces strengthen Pacific security partnerships at CARAT Thailand 2026〉，2026-07-06。[https://www.dvidshub.net/news/569398/us-forces-strengthen-pacific-security-partnerships-carat-thailand-2026][link-0012]
+13. DVIDS：〈32nd iteration of CARAT Thailand concludes with stronger maritime partnerships〉，2026-07-15。[https://www.dvidshub.net/news/569960/32nd-iteration-carat-thailand-concludes-with-stronger-maritime-partnerships][link-0013]
+14. Manila Bulletin：〈AFP, US counterpart hold bilateral drills in West PH Sea amid Chinese activities in Scarborough〉，2026-06-20。[https://mb.com.ph/2026/06/20/afp-us-counterpart-hold-bilateral-drills-in-west-ph-sea-amid-chinese-activities-in-scarborough][link-0014]
+15. Philippine Daily Inquirer：〈AFP, US complete 4th West PH Sea exercise〉，2026-06-20。[https://www.inquirer.net/478227/afp-us-complete-4th-west-ph-sea-exercise/][link-0015]
+16. AFP.mil.ph：〈AFP, USINDOPACOM Complete Successful Bilateral Maritime Exercise〉，2026-06-20。[https://www.afp.mil.ph/news/afp-usindopacom-complete-successful-bilateral-maritime-exercise][link-0016]
+17. Hindustan Times：〈China Aggressively Patrols Disputed Waters. Now the U.S. Coast Guard Is Moving In.〉，2026-07-17。[https://www.hindustantimes.com/world-news/china-aggressively-patrols-disputed-waters-now-the-u-s-coast-guard-is-moving-in-101784107742877.html][link-0017]
+18. SOFX：〈U.S. Deploys Coast Guard Cutters to Match China's ‘Gray-Zone’ Tactics in Pacific〉，2026-07-16。[https://www.sofx.com/u-s-deploys-coast-guard-cutters-to-match-chinas-gray-zone-tactics-in-pacific/][link-0018]
+19. Chuck Hill's CG Blog：〈What Has Happened to PATFORSWA?〉，2026-03-31。[https://chuckhillscgblog.net/2026/03/31/what-has-happened-to-patforswa/][link-0019]
+20. Chuck Hill's CG Blog：〈“Coast Guard transitions Expeditionary Cutter Squadron to enhance operational capabilities” –News Release〉，2026-07-15。[https://chuckhillscgblog.net/2026/07/15/coast-guard-transitions-expeditionary-cutter-squadron-to-enhance-operational-capabilities-news-release/][link-0020]
+21. Military Times：〈The devastation of NSA Bahrain is a national security warning〉，2026-08-28。[https://www.militarytimes.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/][link-0021]
+22. Last Stand on Zombie Island：〈Coast Guard shifts PATFORSWA to Westpac, ends 24 Year Persian Gulf Mission〉，2026-07-16。[https://laststandonzombieisland.com/2026/07/16/coast-guard-shifts-patforswa-to-westpac-ends-24-year-persian-gulf-mission/][link-0022]
+23. U.S. Coast Guard：〈USCGC Myrtle Hazard returns home after Operation Blue Pacific patrol〉，2025-12-14。[https://www.news.uscg.mil/Press-Releases/Article/4365830/uscgc-myrtle-hazard-returns-home-after-operation-blue-pacific-patrol-to-combat/][link-0023]
+24. U.S. Coast Guard：〈U.S. Coast Guard, NOAA partner to restore tsunami warning capability on remote FSM atoll during 29-day Operation Rematau patrol period〉，2026-03-29。[https://www.news.uscg.mil/Press-Releases/Article/4452840/us-coast-guard-noaa-partner-to-restore-tsunami-warning-capability-on-remote-fsm/][link-0024]
+25. The Garden Island：〈Congress looks to continue Coast Guard’s expansion in Pacific〉，2024-07-03。[https://www.thegardenisland.com/2024/07/03/hawaii-news/congress-looks-to-continue-coast-guards-expansion-in-pacific/][link-0025]
+26. U.S. Coast Guard：〈Force Design 2028〉。[https://www.uscg.mil/forcedesign2028/][link-0026]
+
+## 中国大陆非自媒体网站
+
+27. 中华人民共和国外交部：〈关于美国、菲律宾、澳大利亚、加拿大、爱沙尼亚、德国、意大利、日本、拉脱维亚、立陶宛、新西兰、罗马尼亚、斯洛文尼亚、英国等国于 2026 年 7 月 12 日发表所谓“纪念南海仲裁案裁决”十年联合声明，中华人民共和国外交部郑重声明〉，2026-07-12。[https://www.mfa.gov.cn/web/ziliao\_674904/1179\_674909/202607/t20260712\_11980339.shtml][link-0027]
+28. 中华人民共和国外交部（驻非盟使团转）：〈2026 年 7 月 14 日外交部发言人林剑主持例行记者会〉，2026-07-14。[https://au.china-mission.gov.cn/chn/wjbfyrth/202607/t20260714\_11981971.htm][link-0028]
+29. 美国之音（VOA）中文网：〈美国海岸警卫队快速反应巡逻舰进驻新加坡、菲律宾，因应中国在太平洋活动〉，2026-07-17。[https://www.voachinese.com/a/us-coast-guard-deploys-cutters-to-singapore-philippines-amid-china-tensions-20260716/8172597.html][link-0029]
+
+[link-0001]: <https://www.upmedia.mg/tw/international/headlines/263711>
+[link-0002]: <https://www.rti.org.tw/news?pid=220470&uid=3>
+[link-0003]: <https://www.setn.com/news/1873369>
+[link-0004]: <https://www.tcn.tw/news/6866755>
+[link-0005]: <https://www.news.uscg.mil/Press-Releases/Article/>
+[link-0006]: <https://www.janes.com/defence-intelligence-insights/defence-news/sea/uscg-deploys-cutter-squadron-to-singapore-and-subic-bay>
+[link-0007]: <https://www.stripes.com/branches/coast_guard/2026-07-20/coast-guard-bahrain-western-pacific-22315222.html>
+[link-0008]: <https://www.stripes.com/branches/coast_guard/2026-07-27/coast-guard-cutters-bahrain-western-pacific-22376995.html>
+[link-0009]: <https://taskandpurpose.com/news/coast-guard-cutters-pacific-middle-east/>
+[link-0010]: <https://seapowermagazine.org/coast-guard-transitions-expeditionary-cutter-squadron-to-enhance-operational-capabilities/>
+[link-0011]: <https://www.dvidshub.net/news/568246/philippine-us-forces-conduct-maritime-cooperative-activity>
+[link-0012]: <https://www.dvidshub.net/news/569398/us-forces-strengthen-pacific-security-partnerships-carat-thailand-2026>
+[link-0013]: <https://www.dvidshub.net/news/569960/32nd-iteration-carat-thailand-concludes-with-stronger-maritime-partnerships>
+[link-0014]: <https://mb.com.ph/2026/06/20/afp-us-counterpart-hold-bilateral-drills-in-west-ph-sea-amid-chinese-activities-in-scarborough>
+[link-0015]: <https://www.inquirer.net/478227/afp-us-complete-4th-west-ph-sea-exercise/>
+[link-0016]: <https://www.afp.mil.ph/news/afp-usindopacom-complete-successful-bilateral-maritime-exercise>
+[link-0017]: <https://www.hindustantimes.com/world-news/china-aggressively-patrols-disputed-waters-now-the-u-s-coast-guard-is-moving-in-101784107742877.html>
+[link-0018]: <https://www.sofx.com/u-s-deploys-coast-guard-cutters-to-match-chinas-gray-zone-tactics-in-pacific/>
+[link-0019]: <https://chuckhillscgblog.net/2026/03/31/what-has-happened-to-patforswa/>
+[link-0020]: <https://chuckhillscgblog.net/2026/07/15/coast-guard-transitions-expeditionary-cutter-squadron-to-enhance-operational-capabilities-news-release/>
+[link-0021]: <https://www.militarytimes.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/>
+[link-0022]: <https://laststandonzombieisland.com/2026/07/16/coast-guard-shifts-patforswa-to-westpac-ends-24-year-persian-gulf-mission/>
+[link-0023]: <https://www.news.uscg.mil/Press-Releases/Article/4365830/uscgc-myrtle-hazard-returns-home-after-operation-blue-pacific-patrol-to-combat/>
+[link-0024]: <https://www.news.uscg.mil/Press-Releases/Article/4452840/us-coast-guard-noaa-partner-to-restore-tsunami-warning-capability-on-remote-fsm/>
+[link-0025]: <https://www.thegardenisland.com/2024/07/03/hawaii-news/congress-looks-to-continue-coast-guards-expansion-in-pacific/>
+[link-0026]: <https://www.uscg.mil/forcedesign2028/>
+[link-0027]: <https://www.mfa.gov.cn/web/ziliao_674904/1179_674909/202607/t20260712_11980339.shtml>
+[link-0028]: <https://au.china-mission.gov.cn/chn/wjbfyrth/202607/t20260714_11981971.htm>
+[link-0029]: <https://www.voachinese.com/a/us-coast-guard-deploys-cutters-to-singapore-philippines-amid-china-tensions-20260716/8172597.html>
